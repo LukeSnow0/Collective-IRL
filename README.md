@@ -59,20 +59,6 @@ It implements both the **classical Afriat inequalities** and a **distributionall
 
 ---
 
-## Quickstart
-
-``bash
-# 1) Create a fresh environment (optional but recommended)
-python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
-
-# 2) Install dependencies
-pip install -U numpy scipy matplotlib
-
-# 3) Run the script, e.g.,
-python radar_collective_rp.py
-python statistical_detector.py
-
 
 ## robust_rp.m:
 
@@ -85,13 +71,6 @@ python statistical_detector.py
 
 ---
 
-## Usage
-
-1. Open MATLAB (R2020a or later recommended).  
-2. Run the script:
-
-   ```matlab
-   RobustRP
 
 
 
