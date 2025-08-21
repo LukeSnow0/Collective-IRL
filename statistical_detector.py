@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Luke Snow, August 21 2025
+
 """
 Created on Mon Aug 18 10:35:28 2025
 
