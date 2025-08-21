@@ -38,9 +38,9 @@ For each noise level it:
 
 Higher values of this metric indicate data that look **more consistent with coordination** at that noise level.
 
-# Robust Utility Reconstruction Simulation
+# robust_rp.m:
 
-This repository contains MATLAB code for simulating **robust revealed preference (RP) utility reconstruction** under noisy multi-agent decision data.  
+MATLAB code for simulating **robust revealed preference (RP) utility reconstruction** under noisy multi-agent decision data.  
 It implements both the **classical Afriat inequalities** and a **distributionally robust extension** (finite-reduction algorithm), and evaluates their predictive performance.
 
 ---
@@ -60,7 +60,7 @@ It implements both the **classical Afriat inequalities** and a **distributionall
 ---
 
 
-## robust_rp.m:
+## functions:
 
 - `Robust_rp.m` – Main MATLAB script (run this file to reproduce experiments).  
 - Helper functions are defined inline at the bottom of the script:
