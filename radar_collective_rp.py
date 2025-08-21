@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Luke Snow, August 21 2025
 
 """
 Collective Spectral Revealed Preferences – Radar Network
